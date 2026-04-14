@@ -1,10 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
 
 .font-text{
-    font-size: larger;
+    font-size: x-large;
     font-weight: 700;
     font-family: "Dancing Script";
     font-style: normal;
+    color: black;
+    background-color: white;
 }
 /*animation*/
 .container-fluid{
