@@ -14,5 +14,7 @@
 div{
     position: relative;
     background-color: aqua;
-    animation-duration: 5s;
+    animation: box 5s;
+    
+
 }
