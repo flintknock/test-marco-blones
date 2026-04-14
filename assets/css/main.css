@@ -11,7 +11,7 @@
     75% {top: 200px; bottom: 400px}
     100% {top: 0px; bottom: 0px}
 }
-p{
+div{
     position: relative;
     background-color: aqua;
     animation-duration: 5s;
