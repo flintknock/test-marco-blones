@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
 
 .font-text{
-    font-size: x-large;
+    font-size: xx-large;
     font-weight: 700;
     font-family: "Dancing Script";
     font-style: normal;
@@ -15,17 +15,14 @@
     padding: 20px;
     border: 12px solid black;  
     width: 50%;
+    height: auto;
+    position: relative;
+    background-color: aqua;
+    animation: container-fluid 5s infinite;
 }
 @keyframes container-fluid {
     0% {top: 0px; bottom: 0px;}
     25% {top: 0px; bottom: 200px;}
     75% {top: 200px; bottom: 400px;}
     100% {top: 0px; bottom: 0px;}
-}
-div{
-    width: auto;
-    height: auto;
-    position: relative;
-    background-color: aqua;
-    animation: container-fluid 5s infinite;
 }
