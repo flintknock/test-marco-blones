@@ -1,5 +1,6 @@
 .container-fluid{
     margin: 30px;
     padding: 20px;
-    border: 12px solid black;   
+    border: 12px solid black;  
+    width: 50%;
 }
