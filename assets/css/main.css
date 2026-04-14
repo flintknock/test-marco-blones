@@ -1,3 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+
+.font-text{
+    font-size: larger;
+    font-weight: 700;
+    font-family: "Dancing Script";
+    font-style: normal;
+}
+/*animation*/
 .container-fluid{
     display: block;
     margin: 30px;
@@ -16,5 +25,5 @@ div{
     height: auto;
     position: relative;
     background-color: aqua;
-    animation: container-fluid 5s;
+    animation: container-fluid 5s infinite;
 }
