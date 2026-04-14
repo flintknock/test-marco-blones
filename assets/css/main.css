@@ -1,4 +1,5 @@
 .container-fluid{
+    display: block;
     margin: 30px;
     padding: 20px;
     border: 12px solid black;  
